@@ -1,1 +1,1 @@
-Hello from DevB after DevA push but DevB yet pull
+Hello from DevA after DevB rm a1 but devA change and push
