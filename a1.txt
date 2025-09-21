@@ -1,0 +1,1 @@
+Hello from DevA after DevB push but DevA yet pull
